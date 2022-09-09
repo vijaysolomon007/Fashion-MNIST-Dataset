@@ -1,9 +1,9 @@
-https://wandb.ai/cs21m053-cs21m071/Assignment%201/reports/CS21M053-CS21M071-Assignment-1--VmlldzoxNjA4NTMx?accessToken=33rh9k7w2n0cjg515q5bzmts67j70p9heptbrhl2hxe4fk9ijqdnve7az8v06lll
+
 
 # Deep-Learning
-## Assignment 1
 
-A Deep learning programming assignment where we have to develop a Neural Network with Back Propagation using gradient descent Algorithm which should be flexible to tune with different Hyperparameter configurations
+
+A Deep learning programming project where we have to develop a Neural Network with Back Propagation using gradient descent Algorithm which should be flexible to tune with different Hyperparameter configurations
 
 ## Functions 
 #### NeuralNetwork() 
